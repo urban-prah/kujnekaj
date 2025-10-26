@@ -1,4 +1,4 @@
-# Adraž 30
+# Andraž 30
 30 izzivov for 30 let
 
 1. Pazi zdravje: cel dan nosi čelado
