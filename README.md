@@ -12,11 +12,11 @@
 9. Zvadi prezentacijo za dipomo
 10. ~~Žongliraj z jajci~~
 11. Make babi proud: v papagajščini zrecitiraj njeno najljubšo molitev
-12. Pojej bombone, zataknjene med prste na nogah
+12. ~~Pojej bombone, zataknjene med prste na nogah~~
 13. ~~Spucaj pisker~~
 14. Vigo preveri pravljico za lahko noč
 15. ~~Preveri svoje tehnicne sposobnosti (pas, štrik)~~
-16. Na papir napiši vim ukaz, z manj kot 30 znaki, ki generira besedilo (izmenicne velike in male crke v vrsticah): leta <leto rojstva> sem bil star <starost>
+16. ~~Na papir napiši vim ukaz, z manj kot 30 znaki, ki generira besedilo (izmenicne velike in male crke v vrsticah): leta <leto rojstva> sem bil star <starost>~~
 17. ~~Identificiraj lastnika plezalk~~
 18. ~~100x bica curl v 1 minuti~~
 19. Chubby-bunny challenge
