@@ -9,9 +9,9 @@
 6. ~~Posnifaj sol~~
 7. Zmagaj v pantomimi
 8. Vigo nalakiraj nohte
-9. Zvadi prezentacijo za dipomo
+9. Zvadi prezentacijo za diplomo
 10. ~~Žongliraj z jajci~~
-11. Make babi proud: v papagajščini zrecitiraj njeno najljubšo molitev
+11. ~~Make babi proud: v papagajščini zrecitiraj njeno najljubšo molitev~~
 12. ~~Pojej bombone, zataknjene med prste na nogah~~
 13. ~~Spucaj pisker~~
 14. Vigo preveri pravljico za lahko noč
