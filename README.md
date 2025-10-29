@@ -1,7 +1,7 @@
 # Andraž 30
 30 izzivov for 30 let
 
-1. Pazi zdravje: cel dan nosi čelado
+1. ~~Pazi zdravje: cel dan nosi čelado~~
 2. ~~Postrezi gostom čaj~~
 3. ~~Pokliči anči~~
 4. ~~Preveri svoj okus - identificiraj hrano~~
@@ -24,10 +24,10 @@
 21. Na instagram objavi kako častiš svoj biceps
 22. Zmasiraj Nežo (vsaj 30min)
 23. Speči rižev narastek
-24. 10 zgibov z Adam Ondra power scream.
+24. ~~10 zgibov z Adam Ondra power scream.~~
 25. Pripelji plezat 2 neznanca
-26. Daj si prst v rit
+26. ~~Daj si prst v rit~~
 27. Na iPadu nariši in v stanovanju izobesi portret Vigo
 28. Namonitiraj rezervno gumo
-29. Splezaj 30 balvanov s pasom, zokni, rental shoes
-30. Posettaj rosjstnodnevni bolder
+29. ~~Splezaj 30 balvanov s pasom, zokni, rental shoes~~
+30. ~~Posettaj rosjstnodnevni bolder~~
